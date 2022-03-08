@@ -1,4 +1,4 @@
-###Creación de Juego educativo en eXelearning.
+### Creación de Juego educativo en eXelearning.
 
 Deber que nos mandaron hacer, crear un juego educativo acerca de Python, es un pequeño juego cual servirá para aprender y entrenerse con Python. el cual yo he realizado en la aplicación de eXelearning.
 
@@ -45,4 +45,5 @@ Así se visualiza nuestro juego. Si la respuesta está bien contestada saldrá c
 Para guardar vamos a "Archivo", después damos click en "Guardar Como", buscamos donde se guardara nuestro trabajo.
  
  ![imagen 9](https://user-images.githubusercontent.com/101210700/157307028-86a53eec-0588-4cc7-a584-e5bdcbac026b.jpg)
-###Gracias Por Vizualizar.
+ 
+### Gracias Por Vizualizar.
